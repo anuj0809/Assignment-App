@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kaagaz</string>
+    <string name="add_icon">Add Icon</string>
+    <string name="no_albums">No albums found</string>
+</resources>
